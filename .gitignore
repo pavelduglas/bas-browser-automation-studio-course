@@ -1,0 +1,25 @@
+# Видео не храним в git — они на YouTube
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Секреты и токены — не коммитим
+*token*.txt
+google_tokens.txt
+.env
+*.key
+
+# BAS служебные / превью
+*.xml.preview
+
+# Личные заметки — не для публичного репозитория
+YouTube_Описания_12_уроков.md
+
+# Obsidian (если папка внутри хранилища)
+.obsidian/
+
+# Системное
+.DS_Store
+Thumbs.db
+desktop.ini
