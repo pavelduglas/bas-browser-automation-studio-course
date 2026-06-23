@@ -38,13 +38,21 @@
 
 Смотрите видеоурок → копируете готовые заготовки кода из конспекта темы → повторяете в BAS. Все материалы открыты, изучать можно в любом темпе.
 
-## Темы
+## Модули курса
 
-| № | Тема | Проект | Видео |
-|---|------|--------|-------|
+Курс выходит **помодульно** — каждый модуль это самостоятельный мини-курс по своей теме.
+
+| № | Модуль | Материалы | Видео |
+|---|--------|-----------|-------|
+| 1 | Установка и настройка BAS | [01-installation-setup](01-installation-setup/) | [плейлист](https://www.youtube.com/playlist?list=PLihorGiCATBARs0FZ7Ej4_u1Wim1VM8Ws) |
+| 2 | Интерфейс BAS | [02-interface](02-interface/) | [плейлист](https://www.youtube.com/playlist?list=PLihorGiCATBB8mN-WKfnTo4B2I6mrEfXj) |
+| 3 | Основы работы с BAS | [03-basics](03-basics/) | [плейлист](https://www.youtube.com/playlist?list=PLihorGiCATBCx-Vdy0HZLaZ7x4uA78ckn) |
+| 4 | Логика скриптов в потоках | [04-thread-logic](04-thread-logic/) | [плейлист](https://www.youtube.com/playlist?list=PLihorGiCATBCRQ7aNUNBmN8Sl0nqeE0zd) |
+| 5 | Публикация и распространение скриптов | [05-publishing](05-publishing/) | [плейлист](https://www.youtube.com/playlist?list=PLihorGiCATBD-FkfmuRLpbKfqoFY37CnW) |
+| 6 | Основы работы с браузером | [06-browser-basics](06-browser-basics/) | [плейлист](https://www.youtube.com/playlist?list=PLihorGiCATBCC-mqMI7BAMoP9fhmtJknH) |
 | 36 | Веб-сервер на Express в BAS | [36-web-server](36-web-server/) | [плейлист](https://www.youtube.com/playlist?list=PLihorGiCATBCSQWamPi1WO4LClUadoY9z) |
 
-> Новые темы добавляются отдельными папками (`37-...`, `38-...`).
+> Новые модули добавляются отдельными папками (`03-...`, `04-...`).
 
 ## Курсовые работы
 
